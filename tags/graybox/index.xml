@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graybox on Wesaturn - 关卡策划作品集</title><link>https://wesaturn.github.io/tags/graybox/</link><description>Recent content in Graybox on Wesaturn - 关卡策划作品集</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wesaturn.github.io/tags/graybox/index.xml" rel="self" type="application/rss+xml"/><item><title>深渊矿井</title><link>https://wesaturn.github.io/works/abyss-mine/</link><pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate><guid>https://wesaturn.github.io/works/abyss-mine/</guid><description>&lt;h2 id="深渊矿井--线性叙事关卡"&gt;深渊矿井 — 线性叙事关卡&lt;/h2&gt;
+&lt;h3 id="项目概况"&gt;项目概况&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 线性叙事 / 恐怖&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 4 个月&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 关卡设计、灯光氛围、脚本事件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="设计亮点"&gt;设计亮点&lt;/h3&gt;
+&lt;h4 id="渐进式恐怖节奏"&gt;渐进式恐怖节奏&lt;/h4&gt;
+&lt;p&gt;关卡分为三个阶段：安全探索期（明亮开阔矿道）→ 紧张积累期（狭窄隧道 + 间歇性声音）→ 释放爆发期（完全黑暗 + 敌人追击）。每个阶段的空间语言完全不同。&lt;/p&gt;</description></item></channel></rss>

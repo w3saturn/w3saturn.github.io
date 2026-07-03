@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Pehtheme</title>
-    <link>https://pehtheme-hugo.netlify.app/tags/</link>
-    <description>Recent content in Tags on Pehtheme</description>
+    <title>Tags on Wesaturn - 关卡策划作品集</title>
+    <link>https://wesaturn.github.io/tags/</link>
+    <description>Recent content in Tags on Wesaturn - 关卡策划作品集</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://pehtheme-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <atom:link href="https://wesaturn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

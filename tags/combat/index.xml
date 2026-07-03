@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Combat on Wesaturn - 关卡策划作品集</title><link>https://wesaturn.github.io/tags/combat/</link><description>Recent content in Combat on Wesaturn - 关卡策划作品集</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wesaturn.github.io/tags/combat/index.xml" rel="self" type="application/rss+xml"/><item><title>废墟之城</title><link>https://wesaturn.github.io/works/ruin-city/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://wesaturn.github.io/works/ruin-city/</guid><description>&lt;h2 id="废墟之城--开放世界关卡"&gt;废墟之城 — 开放世界关卡&lt;/h2&gt;
+&lt;h3 id="项目概况"&gt;项目概况&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 开放世界 / 动作冒险&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 6 个月&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 独立关卡设计、白盒搭建、关卡脚本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="设计亮点"&gt;设计亮点&lt;/h3&gt;
+&lt;h4 id="多层级垂直探索"&gt;多层级垂直探索&lt;/h4&gt;
+&lt;p&gt;利用建筑废墟的高低差，设计了地面、中层走廊、屋顶三个垂直层级。玩家可通过攀爬、滑索、电梯在不同层级间穿梭，每层提供独特的战斗节奏和探索内容。&lt;/p&gt;</description></item><item><title>晶石竞技场</title><link>https://wesaturn.github.io/works/crystal-arena/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><guid>https://wesaturn.github.io/works/crystal-arena/</guid><description>&lt;h2 id="晶石竞技场--多人对战地图"&gt;晶石竞技场 — 多人对战地图&lt;/h2&gt;
+&lt;h3 id="项目概况"&gt;项目概况&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 多人竞技 / 3v3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 8 个月（含 50+ 轮 playtest 迭代）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 地图布局设计、平衡性调整、战斗节奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="设计亮点"&gt;设计亮点&lt;/h3&gt;
+&lt;h4 id="对称式布局"&gt;对称式布局&lt;/h4&gt;
+&lt;p&gt;采用经典的三路对称结构，确保双方出生点、资源点、掩体分布完全对等。每条路线提供不同的交战距离：长枪路线（开阔）、短兵路线（狭窄）、混合路线（多掩体）。&lt;/p&gt;</description></item></channel></rss>

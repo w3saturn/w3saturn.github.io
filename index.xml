@@ -1,11 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pehtheme</title>
-    <link>https://pehtheme-hugo.netlify.app/</link>
-    <description>Recent content on Pehtheme</description>
+    <title>Wesaturn - 关卡策划作品集</title>
+    <link>https://wesaturn.github.io/</link>
+    <description>Recent content on Wesaturn - 关卡策划作品集</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://pehtheme-hugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wesaturn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://wesaturn.github.io/about/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;&#xA;&lt;p&gt;你好！我是 &lt;strong&gt;Wesaturn&lt;/strong&gt;，一名热爱游戏关卡设计的关卡策划。&lt;/p&gt;&#xA;&lt;p&gt;我深信，一个好的关卡不仅仅是一系列挑战的堆砌，而是一个能够讲述故事、传递情感、引导玩家成长的有机空间。从玩家踏进关卡的第一步起，每一个转角、每一道光、每一处掩体的摆放，都是设计师与玩家之间无声的对话。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;我的设计理念&#34;&gt;我的设计理念&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;玩家优先&lt;/strong&gt;：设计应该服务玩家体验，而非炫耀技巧&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;教学即设计&lt;/strong&gt;：好的关卡本身就是最好的教程&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;节奏为王&lt;/strong&gt;：紧张与舒缓交替，高潮与铺垫并存&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;简约有力&lt;/strong&gt;：用最少的元素创造最丰富的体验&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;: &lt;a href=&#34;mailto:wesaturn@example.com&#34;&gt;wesaturn@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/wesaturn&#34;&gt;github.com/wesaturn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;欢迎交流与合作！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>履历</title>
+      <link>https://wesaturn.github.io/resume/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/resume/</guid>
+      <description>&lt;h2 id=&#34;工作经历&#34;&gt;工作经历&lt;/h2&gt;&#xA;&lt;h3 id=&#34;关卡策划--xxx-游戏公司&#34;&gt;关卡策划 — XXX 游戏公司&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2023.06 - 至今&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;负责开放世界游戏的关卡设计与白盒搭建&lt;/li&gt;&#xA;&lt;li&gt;使用 UE5 进行 Level Design，完成 12+ 个关卡从概念到发布&lt;/li&gt;&#xA;&lt;li&gt;与美术和程序团队紧密协作，优化关卡流程与性能&lt;/li&gt;&#xA;&lt;li&gt;设计并撰写关卡设计文档（LDD），制定关卡标准规范&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;初级关卡策划--yyy-工作室&#34;&gt;初级关卡策划 — YYY 工作室&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2022.01 - 2023.05&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>游戏经历</title>
+      <link>https://wesaturn.github.io/gaming/</link>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/gaming/</guid>
+      <description>&lt;h2 id=&#34;游戏经历&#34;&gt;游戏经历&lt;/h2&gt;&#xA;&lt;p&gt;作为一个关卡策划，我始终保持广泛的游戏涉猎，从经典名作到独立精品，不断分析和学习优秀的关卡设计。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;深度游玩的游戏&#34;&gt;深度游玩的游戏&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;游戏&lt;/th&gt;&#xA;          &lt;th&gt;时长&lt;/th&gt;&#xA;          &lt;th&gt;类型&lt;/th&gt;&#xA;          &lt;th&gt;设计亮点&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;The Legend of Zelda: Breath of the Wild&lt;/td&gt;&#xA;          &lt;td&gt;200h+&lt;/td&gt;&#xA;          &lt;td&gt;开放世界&lt;/td&gt;&#xA;          &lt;td&gt;视觉引导、化学引擎、自由探索&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Elden Ring&lt;/td&gt;&#xA;          &lt;td&gt;150h+&lt;/td&gt;&#xA;          &lt;td&gt;开放世界 / ARPG&lt;/td&gt;&#xA;          &lt;td&gt;世界结构、地牢设计、探索奖励&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;DOOM Eternal&lt;/td&gt;&#xA;          &lt;td&gt;80h+&lt;/td&gt;&#xA;          &lt;td&gt;FPS&lt;/td&gt;&#xA;          &lt;td&gt;战斗节奏、竞技场设计、资源循环&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Portal 2&lt;/td&gt;&#xA;          &lt;td&gt;40h+&lt;/td&gt;&#xA;          &lt;td&gt;解谜&lt;/td&gt;&#xA;          &lt;td&gt;关卡教学、难度曲线、叙事融合&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Celeste&lt;/td&gt;&#xA;          &lt;td&gt;50h+&lt;/td&gt;&#xA;          &lt;td&gt;平台跳跃&lt;/td&gt;&#xA;          &lt;td&gt;精准操作、关卡节奏、死亡反馈&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Half-Life: Alyx&lt;/td&gt;&#xA;          &lt;td&gt;30h+&lt;/td&gt;&#xA;          &lt;td&gt;VR FPS&lt;/td&gt;&#xA;          &lt;td&gt;VR 交互设计、空间利用、沉浸感&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;正在研究的设计方向&#34;&gt;正在研究的设计方向&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;开放世界 POI 布局&lt;/strong&gt;：如何在高密度和留白之间取得平衡&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;战斗竞技场设计&lt;/strong&gt;：掩体分布、垂直性、AI 行为配合&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;叙事与环境叙事&lt;/strong&gt;：通过空间讲述故事，而不依赖文本&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;玩家引导&lt;/strong&gt;：隐式引导（光线、颜色、地标）vs 显式引导（UI、标记）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;游戏设计书单&#34;&gt;游戏设计书单&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;The Art of Game Design&lt;/em&gt; — Jesse Schell&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Level Up! The Guide to Great Video Game Design&lt;/em&gt; — Scott Rogers&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;An Architectural Approach to Level Design&lt;/em&gt; — Christopher W. Totten&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Game Feel&lt;/em&gt; — Steve Swink&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>废墟之城</title>
+      <link>https://wesaturn.github.io/works/ruin-city/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/works/ruin-city/</guid>
+      <description>&lt;h2 id=&#34;废墟之城--开放世界关卡&#34;&gt;废墟之城 — 开放世界关卡&lt;/h2&gt;&#xA;&lt;h3 id=&#34;项目概况&#34;&gt;项目概况&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 开放世界 / 动作冒险&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 6 个月&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 独立关卡设计、白盒搭建、关卡脚本&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;设计亮点&#34;&gt;设计亮点&lt;/h3&gt;&#xA;&lt;h4 id=&#34;多层级垂直探索&#34;&gt;多层级垂直探索&lt;/h4&gt;&#xA;&lt;p&gt;利用建筑废墟的高低差，设计了地面、中层走廊、屋顶三个垂直层级。玩家可通过攀爬、滑索、电梯在不同层级间穿梭，每层提供独特的战斗节奏和探索内容。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>深渊矿井</title>
+      <link>https://wesaturn.github.io/works/abyss-mine/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/works/abyss-mine/</guid>
+      <description>&lt;h2 id=&#34;深渊矿井--线性叙事关卡&#34;&gt;深渊矿井 — 线性叙事关卡&lt;/h2&gt;&#xA;&lt;h3 id=&#34;项目概况&#34;&gt;项目概况&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 线性叙事 / 恐怖&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 4 个月&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 关卡设计、灯光氛围、脚本事件&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;设计亮点&#34;&gt;设计亮点&lt;/h3&gt;&#xA;&lt;h4 id=&#34;渐进式恐怖节奏&#34;&gt;渐进式恐怖节奏&lt;/h4&gt;&#xA;&lt;p&gt;关卡分为三个阶段：安全探索期（明亮开阔矿道）→ 紧张积累期（狭窄隧道 + 间歇性声音）→ 释放爆发期（完全黑暗 + 敌人追击）。每个阶段的空间语言完全不同。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>晶石竞技场</title>
+      <link>https://wesaturn.github.io/works/crystal-arena/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/works/crystal-arena/</guid>
+      <description>&lt;h2 id=&#34;晶石竞技场--多人对战地图&#34;&gt;晶石竞技场 — 多人对战地图&lt;/h2&gt;&#xA;&lt;h3 id=&#34;项目概况&#34;&gt;项目概况&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 多人竞技 / 3v3&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 8 个月（含 50+ 轮 playtest 迭代）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 地图布局设计、平衡性调整、战斗节奏&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;设计亮点&#34;&gt;设计亮点&lt;/h3&gt;&#xA;&lt;h4 id=&#34;对称式布局&#34;&gt;对称式布局&lt;/h4&gt;&#xA;&lt;p&gt;采用经典的三路对称结构，确保双方出生点、资源点、掩体分布完全对等。每条路线提供不同的交战距离：长枪路线（开阔）、短兵路线（狭窄）、混合路线（多掩体）。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>密林神殿</title>
+      <link>https://wesaturn.github.io/works/forest-temple/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/works/forest-temple/</guid>
+      <description>&lt;h2 id=&#34;密林神殿--动作冒险关卡&#34;&gt;密林神殿 — 动作冒险关卡&lt;/h2&gt;&#xA;&lt;h3 id=&#34;项目概况&#34;&gt;项目概况&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unity&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 动作冒险 / 解谜&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 3 个月&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 关卡设计、谜题设计、Unity Timeline 脚本&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;设计亮点&#34;&gt;设计亮点&lt;/h3&gt;&#xA;&lt;h4 id=&#34;教学即关卡理念&#34;&gt;&amp;ldquo;教学即关卡&amp;quot;理念&lt;/h4&gt;&#xA;&lt;p&gt;第一个房间没有文字教程——玩家通过空间引导自然学会跳跃、攀爬、推箱子三个基础操作。每个操作对应一个微谜题，解决后才能进入主殿。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>天空要塞</title>
+      <link>https://wesaturn.github.io/works/sky-citadel/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://wesaturn.github.io/works/sky-citadel/</guid>
+      <description>&lt;h2 id=&#34;天空要塞--垂直探索关卡&#34;&gt;天空要塞 — 垂直探索关卡&lt;/h2&gt;&#xA;&lt;h3 id=&#34;项目概况&#34;&gt;项目概况&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 垂直探索 / 平台跳跃&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 5 个月&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 关卡设计、移动系统调优、视觉效果引导&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;设计亮点&#34;&gt;设计亮点&lt;/h3&gt;&#xA;&lt;h4 id=&#34;垂直空间最大化&#34;&gt;垂直空间最大化&lt;/h4&gt;&#xA;&lt;p&gt;传统关卡以水平面展开，天空要塞则将关卡向 Z 轴延伸。15 座浮空岛分布在 300 米的高度范围内，玩家通过滑翔、上升气流、传送门在岛屿间移动。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

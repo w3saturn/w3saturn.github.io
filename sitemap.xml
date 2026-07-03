@@ -2,10 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pehtheme-hugo.netlify.app/categories/</loc>
+    <loc>https://wesaturn.github.io/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pehtheme-hugo.netlify.app/</loc>
+    <loc>https://wesaturn.github.io/works/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pehtheme-hugo.netlify.app/tags/</loc>
+    <loc>https://wesaturn.github.io/about/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/resume/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/gaming/</loc>
+    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/works/ruin-city/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/works/abyss-mine/</loc>
+    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/works/crystal-arena/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/works/forest-temple/</loc>
+    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/works/sky-citadel/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wesaturn.github.io/categories/</loc>
+  </url><url>
+    <loc>https://wesaturn.github.io/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Multiplayer on Wesaturn - 关卡策划作品集</title><link>https://wesaturn.github.io/tags/multiplayer/</link><description>Recent content in Multiplayer on Wesaturn - 关卡策划作品集</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wesaturn.github.io/tags/multiplayer/index.xml" rel="self" type="application/rss+xml"/><item><title>晶石竞技场</title><link>https://wesaturn.github.io/works/crystal-arena/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><guid>https://wesaturn.github.io/works/crystal-arena/</guid><description>&lt;h2 id="晶石竞技场--多人对战地图"&gt;晶石竞技场 — 多人对战地图&lt;/h2&gt;
+&lt;h3 id="项目概况"&gt;项目概况&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 多人竞技 / 3v3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 8 个月（含 50+ 轮 playtest 迭代）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 地图布局设计、平衡性调整、战斗节奏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="设计亮点"&gt;设计亮点&lt;/h3&gt;
+&lt;h4 id="对称式布局"&gt;对称式布局&lt;/h4&gt;
+&lt;p&gt;采用经典的三路对称结构，确保双方出生点、资源点、掩体分布完全对等。每条路线提供不同的交战距离：长枪路线（开阔）、短兵路线（狭窄）、混合路线（多掩体）。&lt;/p&gt;</description></item></channel></rss>

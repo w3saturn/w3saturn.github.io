@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Platforming on Wesaturn - 关卡策划作品集</title><link>https://wesaturn.github.io/tags/platforming/</link><description>Recent content in Platforming on Wesaturn - 关卡策划作品集</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://wesaturn.github.io/tags/platforming/index.xml" rel="self" type="application/rss+xml"/><item><title>天空要塞</title><link>https://wesaturn.github.io/works/sky-citadel/</link><pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate><guid>https://wesaturn.github.io/works/sky-citadel/</guid><description>&lt;h2 id="天空要塞--垂直探索关卡"&gt;天空要塞 — 垂直探索关卡&lt;/h2&gt;
+&lt;h3 id="项目概况"&gt;项目概况&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;引擎&lt;/strong&gt;: Unreal Engine 5&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;类型&lt;/strong&gt;: 垂直探索 / 平台跳跃&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开发周期&lt;/strong&gt;: 5 个月&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;职责&lt;/strong&gt;: 关卡设计、移动系统调优、视觉效果引导&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="设计亮点"&gt;设计亮点&lt;/h3&gt;
+&lt;h4 id="垂直空间最大化"&gt;垂直空间最大化&lt;/h4&gt;
+&lt;p&gt;传统关卡以水平面展开，天空要塞则将关卡向 Z 轴延伸。15 座浮空岛分布在 300 米的高度范围内，玩家通过滑翔、上升气流、传送门在岛屿间移动。&lt;/p&gt;</description></item></channel></rss>
